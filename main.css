@@ -67,7 +67,7 @@ a {
 
 @media screen and (max-width: 1000px) {
     body {
-        font-size: 0.9em;
+        font-size: 0.9em; 
     }
 
     #header {
@@ -76,4 +76,7 @@ a {
         font-size: 0.8em;
         text-align: center;
     }
+}
+.button:hover{
+    opacity: 0.7;
 }
